@@ -8,6 +8,7 @@ I'm Ayush, I like to contribute to open source projects and work on my side proj
 <div style="background-color:white">
 <img src="https://user-images.githubusercontent.com/37068133/229576745-34088067-f902-462d-b94e-81c8454c0450.png" height="88px" alt="machine learning"/>
 </div>
+
 ## Skills
 
 <div style="display:flex;gap:4px">
