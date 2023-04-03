@@ -2,7 +2,7 @@
 
 ### Hi there! 👋
 
-I'm Ayush, a software developer based in San Francisco. I specialize in building web applications using React and Node.js. In my free time, I like to contribute to open source projects and work on my side projects.
+I'm Ayush, I like to contribute to open source projects and work on my side projects.
 
 ## Currently Learning 
 <div style="background-color:white">
