@@ -6,7 +6,8 @@ I'm Ayush, I like to contribute to open source projects and work on my side proj
 
 ## Currently Learning 
 <div style="background-color:white">
-<img src="https://user-images.githubusercontent.com/37068133/229576745-34088067-f902-462d-b94e-81c8454c0450.png" height="88px" alt="machine learning"/>
+  <img src="https://user-images.githubusercontent.com/37068133/229572995-1a9829a8-cc84-4541-aba2-31c8d5df105c.png" height="88px" alt="Android"/>
+
 </div>
 
 ## Skills
